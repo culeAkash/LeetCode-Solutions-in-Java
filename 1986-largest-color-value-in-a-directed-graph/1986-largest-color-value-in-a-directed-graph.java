@@ -26,7 +26,7 @@ class Solution {
 
 
         int visited = 0;
-        int maxValue = 0;
+        int maxValue = 1;
 
 
         while(!q.isEmpty()){
@@ -37,6 +37,7 @@ class Solution {
                 for(int c=0;c<26;c++){
                     int inc = colors.charAt(it) -'a' == c ? 1 : 0;
                     dp.get(it)[c] = Math.max(dp.get(it)[c],dp.get(node)[c] + inc);
+                    maxValue = Math.max(dp.get(it)[c],maxValue);
                 }
 
                 if(--indegree[it]==0){
@@ -44,8 +45,7 @@ class Solution {
                 }
             }
 
-            for(int val : dp.get(node))
-                maxValue = Math.max(val,maxValue);
+            
         }
 
         return visited==N ? maxValue : -1;
