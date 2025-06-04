@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Graph
 |  |
@@ -77,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
