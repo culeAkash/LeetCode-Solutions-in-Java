@@ -1,47 +1,50 @@
 class Solution {
     public String smallestEquivalentString(String s1, String s2, String baseStr) {
-        int[] mins = new int[26];
-        Map<Integer,Set<Integer>> chars = new HashMap<>();
-        for(int i=0;i<26;i++){
-            mins[i] = i;
-            chars.put(mins[i],new HashSet<>(Set.of(mins[i])));
-        }
         int N = s1.length();
-        for(int index=0;index<N;index++){
-            int ch1 = s1.charAt(index) - 'a';
-            int ch2 = s2.charAt(index) - 'a';
+        DisjointSet ds = new DisjointSet(26);
 
-            modify(ch1,ch2,mins,chars);
+
+        for(int i=0;i<N;i++){
+            ds.unionBySize(s1.charAt(i)-'a',s2.charAt(i)-'a');
         }
 
-        StringBuilder sb = new StringBuilder();
+        StringBuilder res = new StringBuilder();
+
         for(int i=0;i<baseStr.length();i++){
-            sb.append((char)('a' + mins[baseStr.charAt(i) - 'a']));
+            res.append((char)(ds.findPar(baseStr.charAt(i)-'a')+'a'));
         }
 
-        return sb.toString();
+        return res.toString();
     }
+}
 
-    void modify(int index1,int index2,int[] mins,Map<Integer,Set<Integer>> chars){
-        int val1 = mins[index1];
-        int val2 = mins[index2];
 
-        if(val1<val2){
-            Set<Integer> charsVal2 = chars.get(val2);
-            for(int val : charsVal2){
-                mins[val] = val1;
-                chars.get(val1).add(val);
-            }
-            charsVal2.clear();
-            chars.put(val2,charsVal2);
-        }else if(val1>val2){
-            Set<Integer> charsVal1 = chars.get(val1);
-            for(int val : charsVal1){
-                mins[val] = val2;
-                chars.get(val2).add(val);
-            }
-            charsVal1.clear();
-            chars.put(val1,charsVal1);
+class DisjointSet{
+    int[] parent, size;
+
+    public DisjointSet(int n){
+        parent = new int[n+1];
+        size = new int[n+1]; 
+        for(int i = 0;i<=n;i++) {
+            parent[i] = i; 
+            size[i] = 1; 
         }
     }
+
+    int findPar(int node){
+        if(node==parent[node]) return node;
+        return parent[node] =findPar(parent[node]);
+    }
+    void unionBySize(int u, int v) {
+        int up = findPar(u); 
+        int uv = findPar(v); 
+        if(up == uv) return; 
+        if(up < uv) {
+            parent[uv] = up; 
+        }
+        else {
+            parent[up] = uv;
+        }
+    }
+
 }
