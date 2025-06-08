@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
