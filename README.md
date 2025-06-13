@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2048-build-array-from-permutation) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3194-find-words-containing-character) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
