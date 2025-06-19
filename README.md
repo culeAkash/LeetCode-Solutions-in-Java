@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Simulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Depth-First Search
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Hash Table
 |  |
