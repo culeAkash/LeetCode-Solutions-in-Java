@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2048-build-array-from-permutation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Math
 |  |
