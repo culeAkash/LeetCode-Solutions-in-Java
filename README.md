@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0326-power-of-three) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0326-power-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
