@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0806-domino-and-tromino-tiling](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0326-power-of-three) |
+| [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2202-sum-of-k-mirror-numbers) |
@@ -213,5 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
