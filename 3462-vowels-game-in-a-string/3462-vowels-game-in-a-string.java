@@ -4,10 +4,10 @@ class Solution {
 
         for(char c : s.toCharArray()){
             if("aeiou".contains("" + c)){
-                vowelCount++;
+                return true;
             }
         }
 
-        return !(vowelCount == 0);
+        return false;
     }
 }
