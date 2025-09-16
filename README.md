@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0679-24-game) |
+| [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1293-three-consecutive-odds](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1293-three-consecutive-odds) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
