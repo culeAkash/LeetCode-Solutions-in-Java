@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [2529-range-product-queries-of-powers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2529-range-product-queries-of-powers) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2689-rearranging-fruits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2689-rearranging-fruits) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3194-find-words-containing-character](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
@@ -253,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
