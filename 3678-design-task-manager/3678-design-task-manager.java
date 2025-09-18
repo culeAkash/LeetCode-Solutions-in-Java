@@ -26,6 +26,7 @@ class TaskManager {
     }
     
     public void edit(int taskId, int newPriority) {
+        
         int userId = taskToTaskMap.get(taskId).userId;
         Task task = new Task(userId,taskId,newPriority);
         pq.offer(task);
@@ -37,51 +38,25 @@ class TaskManager {
     }
     
     public int execTop() {
-        while(!pq.isEmpty()){
-            Task top = pq.poll();
+        if(pq.isEmpty()) return -1;
+        Task top = pq.poll();
 
-            Integer userId = top.userId;
-            Integer taskId = top.taskId;
-            Integer priority = top.priority;
-
-            Task current = taskToTaskMap.get(taskId);
-
-            if(current!=null && current.priority.equals(top.priority) && current.userId.equals(userId)){
-                taskToTaskMap.remove(taskId);
-                return current.userId;
-            }
-        }
-        return -1;
-        // while(!pq.isEmpty()){
-        //     Task top = pq.poll();
-
-        // int userId = top.userId;
-        // int taskId = top.taskId;
-        // int priority = top.priority;
+        int userId = top.userId;
+        int taskId = top.taskId;
+        int priority = top.priority;
         // System.out.println(userId + " " + taskId + " " + priority);
-        // }
-        
+        while(!taskToTaskMap.containsKey(taskId) || taskToTaskMap.get(taskId).priority != priority || userId != taskToTaskMap.get(taskId).userId){
+            // System.out.println(userId + " " + taskId + " " + priority);
+            if(pq.isEmpty())return -1;
 
-        // if(pq.isEmpty()) return -1;
-        // Task top = pq.poll();
+            top = pq.poll();
 
-        // int userId = top.userId;
-        // int taskId = top.taskId;
-        // int priority = top.priority;
-        
-        // while(!taskToTaskMap.containsKey(taskId) || taskToTaskMap.get(taskId).priority != priority || userId != taskToTaskMap.get(taskId).userId){
-        //     System.out.println(userId + " " + taskId + " " + priority);
-
-        //     if(pq.isEmpty())return -1;
-
-        //     top = pq.poll();
-
-        //     userId = top.userId;
-        //     taskId = top.taskId;
-        //     priority = top.priority;
-        // }
-        // taskToTaskMap.remove(taskId);
-        // return userId;
+            userId = top.userId;
+            taskId = top.taskId;
+            priority = top.priority;
+        }
+        taskToTaskMap.remove(taskId);
+        return userId;
     }
 }
 
