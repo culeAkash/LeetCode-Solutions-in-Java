@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
