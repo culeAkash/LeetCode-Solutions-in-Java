@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
+| [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3462-vowels-game-in-a-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
