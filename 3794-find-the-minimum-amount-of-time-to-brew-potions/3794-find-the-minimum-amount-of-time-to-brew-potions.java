@@ -1,48 +1,21 @@
 class Solution {
+
     public long minTime(int[] skill, int[] mana) {
-        int N = skill.length;
+        int n = skill.length;
+        int m = mana.length;
+        long[] times = new long[n];
 
-        int M = mana.length;
-
-        long[] dp = new long[N+1];
-        dp[0] = 0;
-        for(int i=1;i<=N;i++)
-            dp[i] = dp[i-1] + skill[i-1]*mana[0];
-
-        for(int m=1;m<M;m++){
-            long start = dp[1], end = dp[N];
-            long startPoint = helper(start,end,dp,mana[m],skill);
-            dp[0] = startPoint;
-            for(int i=1;i<=N;i++)
-                dp[i] = dp[i-1] + (long)skill[i-1]* (long)mana[m];
-        }
-
-        return dp[N];
-    }
-
-    private long helper(long start,long end,long[] dp,int mana,int[] skill){
-        while(start<=end){
-            // System.out.println(start + " " + end);
-            long mid = start + (end - start) / 2;
-            long run = mid;
-            int flag = 0;
-            for(int i=1;i<skill.length+1;i++){
-                // System.out.println(run + " " + dp[i]);
-                if(run < dp[i]){
-                    flag=1;
-                    break;
-                }
-                run += (long)mana * (long)skill[i-1];
+        for (int j = 0; j < m; j++) {
+            long curTime = 0;
+            for (int i = 0; i < n; i++) {
+                curTime =
+                    Math.max(curTime, times[i]) + (long) skill[i] * mana[j];
             }
-            if(flag==1){
-                start = mid + 1;
-            }else{
-                end = mid - 1;
+            times[n - 1] = curTime;
+            for (int i = n - 2; i >= 0; i--) {
+                times[i] = times[i + 1] - (long) skill[i + 1] * mana[j];
             }
-            // System.out.println(start + " " + end);
         }
-        // System.out.println(start);
-        return start;
-        
+        return times[n - 1];
     }
 }
