@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3827-implement-router](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3827-implement-router) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Simulation
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2529-range-product-queries-of-powers) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Greedy
 |  |
