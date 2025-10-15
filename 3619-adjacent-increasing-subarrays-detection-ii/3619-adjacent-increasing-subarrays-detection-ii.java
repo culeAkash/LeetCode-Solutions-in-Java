@@ -9,12 +9,12 @@ class Solution {
             if(nums.get(index-1) < nums.get(index)){
                 currCount++;
             }else{
-                System.out.println(index + " " + currCount);
+                // System.out.println(index + " " + currCount);
                 ans = Math.max(ans,Math.min(prevCount,currCount));
                 ans = Math.max(ans,currCount/2);
                 prevCount = currCount;
                 currCount = 1;
-                System.out.println(ans);
+                // System.out.println(ans);
             }
             index++;
         }
