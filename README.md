@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3194-find-words-containing-character](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3396-valid-word) |
