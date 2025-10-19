@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Union Find
 |  |
