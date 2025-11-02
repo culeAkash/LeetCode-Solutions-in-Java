@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1628-count-submatrices-with-all-ones) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Stack
 |  |
