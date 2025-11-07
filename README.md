@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3827-implement-router](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3827-implement-router) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Simulation
 |  |
 | ------- |
@@ -142,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3827-implement-router](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Topological Sort
 |  |
@@ -266,10 +270,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Trie
 |  |
 | ------- |
@@ -293,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -413,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
 ## Geometry
 |  |
 | ------- |
