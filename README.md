@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2202-sum-of-k-mirror-numbers) |
