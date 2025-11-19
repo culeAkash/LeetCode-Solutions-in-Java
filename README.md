@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2169-simple-bank-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2169-simple-bank-system) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2689-rearranging-fruits) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2169-simple-bank-system) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2429-design-a-food-rating-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
