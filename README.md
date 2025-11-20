@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0679-24-game) |
+| [0759-set-intersection-size-at-least-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0759-set-intersection-size-at-least-two) |
 | [0830-largest-triangle-area](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1018-largest-perimeter-triangle) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0011-container-with-most-water) |
+| [0759-set-intersection-size-at-least-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0759-set-intersection-size-at-least-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1018-largest-perimeter-triangle) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
