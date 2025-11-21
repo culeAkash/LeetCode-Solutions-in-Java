@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0011-container-with-most-water) |
+| [0238-product-of-array-except-self](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0238-product-of-array-except-self) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2618-maximize-the-minimum-powered-city) |
