@@ -3,8 +3,8 @@ class Solution {
     public int numberOfPaths(int[][] grid, int div) {
         int M = grid.length;
         int N = grid[0].length;
-        int[][][] dp = new int[M+1][N+1][div];
-
+        int[][] curr = new int[N+1][div];
+        int[][] prev = new int[N+1][div];
 
         for(int row=M-1;row>=0;row--){
             for(int col=N-1;col>=0;col--){
@@ -12,17 +12,20 @@ class Solution {
                     int newRem = (k+grid[row][col]) % div;
 
                     if(row==M-1 && col==N-1){
-                        dp[row][col][k] = (newRem==0) ? 1 : 0;
+                        curr[col][k] = (newRem==0) ? 1 : 0;
                     }else{
-                        int bottom = dp[row+1][col][newRem] % MOD;
+                        int bottom = prev[col][newRem] % MOD;
                     
-                    int right = dp[row][col+1][newRem] % MOD;
+                    int right = curr[col+1][newRem] % MOD;
                     
 
-                    dp[row][col][k] = (bottom + right) % MOD;
+                    curr[col][k] = (bottom + right) % MOD;
                     }  
                 }
             }
+            int[][] temp = prev;
+            prev = curr;
+            curr = temp;
         }
         // System.out.println(dp[M][N][0] + " " + M + " " + N);
         // for(int d[][] : dp){
@@ -35,7 +38,7 @@ class Solution {
         //     System.out.println();
         // }
 
-        return dp[0][0][0];
+        return prev[0][0];
     }
 
     int helper(int row,int col,int rem,int[][] grid,int M,int N,int k,int[][][] dp){
