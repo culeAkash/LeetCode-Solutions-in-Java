@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3194-find-words-containing-character) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2689-rearranging-fruits) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
