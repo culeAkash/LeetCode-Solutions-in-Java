@@ -9,26 +9,41 @@ class Solution {
             adj[edge[0]].add(edge[1]);
             adj[edge[1]].add(edge[0]);
         }
-        int[] components = new int[1];
-        helper(n,adj,values,k,0,-1,components);
-        return components[0];
+
+        return helper(n,adj,values,k,0,-1).count;
+
     }
 
-    private int helper(int n,List<Integer>[] adj,int[] values,int k,int node,int parent,int[] components){
+    private Pair helper(int n,List<Integer>[] adj,int[] values,int k,int node,int parent){
         int sum = 0;
+        int count = 0;
         for(int it : adj[node]){
             if(it!=parent){
-                int itSum = helper(n,adj,values,k,it,node,components);
-                sum += itSum;
-                sum = sum % k;
+                Pair itPair = helper(n,adj,values,k,it,node);
+
+                int itSum = itPair.sum;
+                int itCount = itPair.count;
+
+                sum = (sum +itSum) % k;
+                count += itCount;
+
             }
         }
-
         sum = (sum + values[node]) % k;
         if(sum==0){
-            components[0]++;
-        }
+            count += 1;
+        }        
 
-        return sum;
+        return new Pair(sum,count);
+    }
+}
+
+class Pair{
+    int sum;
+    int count;
+
+    public Pair(int sum,int count){
+        this.sum = sum;
+        this.count = count;
     }
 }
