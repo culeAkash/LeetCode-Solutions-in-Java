@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3583-count-special-triplets](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3583-count-special-triplets](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3678-design-task-manager) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3583-count-special-triplets](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3872-find-most-frequent-vowel-and-consonant) |
