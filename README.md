@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Queue
 |  |
 | ------- |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2324-find-triangular-sum-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
