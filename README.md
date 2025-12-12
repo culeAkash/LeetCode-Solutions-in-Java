@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3433-count-mentions-per-user](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3531-count-covered-buildings) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Dynamic Programming
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2689-rearranging-fruits) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -390,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
