@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2048-build-array-from-permutation) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-number-of-substrings-with-only-1s](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2288-count-operations-to-obtain-zero) |
