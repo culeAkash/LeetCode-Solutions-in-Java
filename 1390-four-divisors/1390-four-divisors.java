@@ -21,7 +21,7 @@ class Solution {
             if(num%i==0){
                 int j = num / i;
                 if(i!=j && isPrime(i) && isPrime(j)){
-                    System.out.println(i + " " + j + " " + num);
+                    // System.out.println(i + " " + j + " " + num);
                     return 1 + i + j + num;
                 }
                 return 0;
