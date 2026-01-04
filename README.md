@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1293-three-consecutive-odds) |
+| [1390-four-divisors](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1523-count-odd-numbers-in-an-interval-range) |
