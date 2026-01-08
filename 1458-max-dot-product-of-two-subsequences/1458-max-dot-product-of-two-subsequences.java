@@ -6,7 +6,7 @@ class Solution {
     }
 
     private int helper(int i,int j,int[] nums1,int[] nums2,int M,int N,int[][] dp){
-        if(i>=M || j>=N)return Integer.MIN_VALUE/2;
+        if(i>=M || j>=N)return Integer.MIN_VALUE;
 
         if(dp[i][j]!=Integer.MIN_VALUE)return dp[i][j];
 
