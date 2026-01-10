@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0165-compare-version-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0166-fraction-to-recurring-decimal) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1636-number-of-substrings-with-only-1s) |
