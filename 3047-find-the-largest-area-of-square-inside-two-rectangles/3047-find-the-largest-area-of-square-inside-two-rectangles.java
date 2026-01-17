@@ -4,7 +4,8 @@ class Solution {
         int N = bottomLeft.length;
 
         for(int index1=0;index1<N;index1++){
-            for(int index2=index1+1;index2<N;index2++){
+            for(int index2=0;index2<N;index2++){
+                if(index1==index2)continue;
                 int x1 = Math.max(bottomLeft[index1][0],bottomLeft[index2][0]);
                 int x2 = Math.min(topRight[index1][0],topRight[index2][0]);
 
