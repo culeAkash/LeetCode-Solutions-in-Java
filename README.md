@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0238-product-of-array-except-self) |
+| [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0326-power-of-three) |
+| [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
 | [0679-24-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0867-new-21-game) |
