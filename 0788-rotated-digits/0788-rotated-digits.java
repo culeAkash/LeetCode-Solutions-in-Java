@@ -1,30 +1,33 @@
 class Solution {
     public int rotatedDigits(int n) {
+        int[] dp = new int[n+1];
         int count = 0;
 
-        for(int num = 1;num<=n;num++){
-            if(isValid(num))
+        for(int num=0;num<=n;num++){
+            if(num<10){
+                if(num==1 || num==0 || num==8)
+                    dp[num] = 1;
+                else if(num==5 || num==2 || num==6 || num==9){
+                    dp[num] = 2;
+                    count++;
+                }
+                else
+                    dp[num] = 0;
+                continue;
+            }
+
+            int a = num % 10;
+            int b = num / 10;
+
+            if(dp[a]==1 && dp[b]==1)
+                dp[num] = 1;
+            else if(dp[a]>=1 && dp[b]>=1){
+                dp[num] = 2;
                 count++;
+            }
+            else
+                dp[num] = 0;
         }
-
         return count;
-    }
-
-    private boolean isValid(int num){
-        boolean isReqPres = false;
-        boolean isNonReqPres = false;
-
-        while(num > 0){
-            int r = num % 10;
-            if(r == 2 || r==5 || r == 6 || r==9)
-                isReqPres = true;
-            
-            if(r==3 || r==4 || r==7)
-                isNonReqPres = true;
-            
-            num /= 10;
-        }
-
-        return isReqPres && !isNonReqPres;
     }
 }
