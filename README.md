@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1895-largest-magic-square](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2048-build-array-from-permutation) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
 | [1642-water-bottles](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1642-water-bottles) |
+| [1914-cyclically-rotating-a-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [2048-build-array-from-permutation](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2169-simple-bank-system) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1895-largest-magic-square) |
+| [1914-cyclically-rotating-a-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1914-cyclically-rotating-a-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
