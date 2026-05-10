@@ -2,8 +2,21 @@ class Solution {
     public int maximumJumps(int[] nums, int target) {
         int N = nums.length;
         int[] dp = new int[N];
-        Arrays.fill(dp,-1);
-        int ans =  helper(0,nums,target,N,dp);
+        dp[N-1] = 0;
+
+        for(int i=N-2;i>=0;i--){
+            int res = Integer.MIN_VALUE;
+
+            for(int j=i+1;j<N;j++){
+                if(((int)(Math.abs(nums[j]-nums[i])) <= target)){
+                    res = Math.max(res,dp[j]+1);
+                }
+            }
+
+            dp[i] = res;
+        }
+
+        int ans =  dp[0];
         return ans < 0 ? -1 : ans;
     }
 
