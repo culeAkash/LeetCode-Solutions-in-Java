@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1293-three-consecutive-odds) |
+| [1306-jump-game-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1306-jump-game-iii) |
 | [1390-four-divisors](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1306-jump-game-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1306-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1306-jump-game-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1306-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
