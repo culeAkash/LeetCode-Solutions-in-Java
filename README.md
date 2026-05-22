@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0238-product-of-array-except-self) |
 | [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2141-maximum-running-time-of-n-computers) |
