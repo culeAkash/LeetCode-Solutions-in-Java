@@ -43,13 +43,13 @@ class Solution {
             for(int it: adjList.get(top)){
                 edgeCount++;
                 if(visited[it]==0){
-                    System.out.println("Neighbor node: " + it);
+                    // System.out.println("Neighbor node: " + it);
                     q.offer(it);
                     visited[it] = 1;
                 }
             }
         }
-        System.out.println("Vertex Count: " + vertexCount + " Edge Count: " + edgeCount);
+        // System.out.println("Vertex Count: " + vertexCount + " Edge Count: " + edgeCount);
         return edgeCount == ((vertexCount)*(vertexCount-1));
     }
 
