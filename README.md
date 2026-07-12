@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1293-three-consecutive-odds](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1293-three-consecutive-odds) |
 | [1306-jump-game-iii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1331-rank-transform-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1006-vowel-spellchecker](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1006-vowel-spellchecker) |
+| [1331-rank-transform-of-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1331-rank-transform-of-an-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1590-make-sum-divisible-by-p) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/1834-minimum-number-of-people-to-teach) |
