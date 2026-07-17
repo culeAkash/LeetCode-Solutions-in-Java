@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3863-power-grid-maintenance) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
 | ------- |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -548,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
 |  |
 | ------- |
