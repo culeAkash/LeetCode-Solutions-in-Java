@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
 | [0407-trapping-rain-water-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0486-predict-the-winner) |
 | [0498-diagonal-traverse](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0679-24-game) |
 | [0759-set-intersection-size-at-least-two](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0759-set-intersection-size-at-least-two) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0788-rotated-digits) |
 | [0806-domino-and-tromino-tiling](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0806-domino-and-tromino-tiling) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0166-fraction-to-recurring-decimal) |
 | [0326-power-of-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0326-power-of-three) |
 | [0396-rotate-function](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0486-predict-the-winner) |
 | [0679-24-game](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0679-24-game) |
 | [0788-rotated-digits](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0830-largest-triangle-area) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0326-power-of-three) |
+| [0486-predict-the-winner](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0486-predict-the-winner) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
@@ -548,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/0486-predict-the-winner) |
 | [3462-vowels-game-in-a-string](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3462-vowels-game-in-a-string) |
 ## Number Theory
 |  |
