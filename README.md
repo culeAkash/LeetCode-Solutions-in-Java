@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3623-count-number-of-trapezoids-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/culeAkash/LeetCode-Solutions-in-Java/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
